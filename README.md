@@ -10,4 +10,7 @@ This folder can be downloaded from https://uofi.box.com/s/n8a15pcabkh8fzd42hecxh
 ## Figure_2
 - Figure_2A.py: python code to generate two dimentional free energy landscape as shown in Figure 2A 
 - Figure_2B.py: python code to generate two dimentional free energy landscape as shown in Figure 2B
-- Representative VMD structures from different THC binding poses as shown in Figure 3C, 3D, and 3E.
+- Visulazation states of CB1 and CB2 structures in orthosteric poses as shown in Figure 2C, 2D.
+
+## Figure_3
+- Visulazation states of CB1 and CB2 structures in orthosteric poses as shown in Figure 3A, 3B.
