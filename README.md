@@ -26,4 +26,4 @@ This folder can be downloaded from https://uofi.box.com/s/n8a15pcabkh8fzd42hecxh
 - Visulazation states of CB1 and CB2 structures to depict sodium binding from intracellular direction as shown in Figure 5C, 5D.
 
 ## Figure_6
--python code to generate TPT calculations as shown in Figure 6A and Figure 6B.
+- python code to generate TPT calculations as shown in Figure 6A and Figure 6B.
