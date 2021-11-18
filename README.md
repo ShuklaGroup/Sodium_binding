@@ -1,5 +1,5 @@
 
-# Mechanistic Comparison of Allosteric Na+ Binding for Cannabinoid Receptors
+# Distinct Binding Mechanisms for Allosteric Sodium Ion In Cannabinoid Receptors
 
 ## final_MSM_obj.pkl
 This file can be downloaded from https://uofi.box.com/s/n8a15pcabkh8fzd42hecxh2mkhz1fzh3. It contains optimal MSM object for CB1 and CB2. 
