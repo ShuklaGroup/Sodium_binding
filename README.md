@@ -42,8 +42,8 @@ This folder can be downloaded from https://uofi.box.com/s/n8a15pcabkh8fzd42hecxh
 - Figure_7_CB1.vmd, Figure_7_CB2.vmd: Visulazation states of CB1 and CB2 structures with calculated secondary pocket volume as shown in inlet figures.
 
 ## Figure_8
-- Figure_8A.py: python code to generate two dimentional free energy landscape as shown in Figure 6A 
-- Figure_8B.py: python code to generate two dimentional free energy landscape as shown in Figure 6B
+- Figure_8A.py: python code to generate two dimentional free energy landscape as shown in Figure 8A 
+- Figure_8B.py: python code to generate two dimentional free energy landscape as shown in Figure 8B
 -Visulazation states of CB1 and CB2 structures to depict sodium binding from intracellular direction as shown in Figure 8A, 8B.
 
 ##Videos
