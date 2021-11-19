@@ -20,25 +20,36 @@ This folder can be downloaded from https://uofi.box.com/s/n8a15pcabkh8fzd42hecxh
 - Figure_3C.py:  Python code to generate box plot for Figure 3C
 - Figure_3D.py:  Python code to generate box plot for Figure 3D
 
-
-
-## Figure_4
-- Figure_2A.py: python code to generate two dimentional free energy landscape as shown in Figure 2A 
-- Figure_2B.py: python code to generate two dimentional free energy landscape as shown in Figure 2B
-- Visulazation states of CB1 and CB2 structures with Na+ in orthosteric binding pocket as shown in Figure 2C, 2D.
-
-## Figure_
-- Visulazation states of CB1 and CB2 structures with Na+ in different binding position as shown in Figure 3A, 3B.
-
 ## Figure_4
 - Figure_4A.py: python code to generate two dimentional free energy landscape as shown in Figure 4A 
 - Figure_4B.py: python code to generate two dimentional free energy landscape as shown in Figure 4B
-- Visulazation states of CB1 and CB2 structures with Y7.53 and N7.49 in different poses as shown in Figure 4C, 4D.
+- Figure_4C.vmd : Visulazation states of CB1 with Na+ in orthosteric binding pocket as shown in Figure 4C.
+- Figure_4D.vmd : Visulazation states of CB1 with Na+ in orthosteric binding pocket as shown in Figure 4D.
 
 ## Figure_5
-- Figure_5A.py: python code to generate two dimentional free energy landscape as shown in Figure 5A 
-- Figure_5B.py: python code to generate two dimentional free energy landscape as shown in Figure 5B
-- Visulazation states of CB1 and CB2 structures to depict sodium binding from intracellular direction as shown in Figure 5C, 5D.
+- Figure_5A.py: python code to estimating MFPT calculations for CB1 as shown in Figure 5A 
+- Figure_5B.py: python code to estimating MFPT calculations for CB2 as shown in Figure 5B
+- Figure_5C.vmd: Visulazation states of Na+ binding from orthosteric binding pocket to secondary Na+ binding as shown in Figure 5C.
+- Figure_5D.vmd: Visulazation states of Na+ binding from orthosteric binding pocket to primary Na+ binding as shown in Figure 5D.
 
 ## Figure_6
-- python code to generate TPT calculations as shown in Figure 6A and Figure 6B.
+- Figure_6A.py: python code to generate two dimentional free energy landscape as shown in Figure 6A 
+- Figure_6B.py: python code to generate two dimentional free energy landscape as shown in Figure 6B
+- Figure_6C.vmd, Figure_6D.vmd: Visulazation states of CB1 and CB2 structures with Y7.53 and N7.49 in different poses as shown in Figure 6C, 6D.
+
+## Figure_7
+- Figure_7.py: python code to calculate secondary pocket volume as shown in Figure 5A 
+- Figure_7_CB1.vmd, Figure_7_CB2.vmd: Visulazation states of CB1 and CB2 structures with calculated secondary pocket volume as shown in inlet figures.
+
+## Figure_8
+- Figure_8A.py: python code to generate two dimentional free energy landscape as shown in Figure 6A 
+- Figure_8B.py: python code to generate two dimentional free energy landscape as shown in Figure 6B
+-Visulazation states of CB1 and CB2 structures to depict sodium binding from intracellular direction as shown in Figure 8A, 8B.
+
+##Videos
+- Extracellular binding video Na+ to CB1 structure (with truncated N-terminus): CB1_original_extracellular_binding.mpg
+- Intracellular binding video Na+ to CB1 structure (with truncated N-terminus): CB1_original_intracellular_binding.mpg
+- Extracellular binding video Na+ to CB2 structure (with truncated N-terminus): CB2_original_extracellular_binding.mpg
+- Extracellular binding video Na+ to CB1 structure (with fully modeled N-terminus): CB1_model_1.mpg
+- Extracellular binding video Na+ to CB1 structure (with fully modeled N-terminus): CB1_model_2.mpg
+- Extracellular binding video Na+ to CB2 structure (with fully modeled N-terminus): CB2_model_1.mpg
